@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-Full academic CV: [PDF](https://github.com/martinke11/martinke11.github.io/blob/master/files/Martin_Kieran_CV.pdf)
+Full academic CV: <a href="https://github.com/martinke11/martinke11.github.io/blob/master/files/Martin_Kieran_CV.pdf" target="_blank">PDF</a>
+
 
 Education
 ======
