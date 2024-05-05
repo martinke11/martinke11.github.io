@@ -8,57 +8,42 @@ redirect_from:
 ---
 
 {% include base_path %}
+Full academic CV: [PDF](https://github.com/martinke11/martinke11.github.io/blob/master/files/Martin_Kieran_CV.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.P.P. Data Science Specialty, University of Chicago, 2024(Expected)
+* B.A. in Sociology with Honors, University of Michigan-Ann Arbor, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2020 - Present: Research Specialist
+  * Special Olympics Inc. Research and Evaluation, Data Science
+  * Duties includes:  Leading the development of a data collection app, designing ETL pipelines for data integration, enhancing data analysis efficiency via Python programming, and creating dynamic data visualizations and interactive dashboards with PowerBI for in-depth programmatic analysis.
+  * Supervisor: Dr. Ashlyn Smith
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2019 - August 2020: Research Assistant
+  * University of Michigan School of Nursing
+  * Duties included: Handling data operations including merging and cleaning large datasets from patient satisfaction surveys and conducting thorough analyses using SPSS and thematic coding to inform Healthcare policy on Human Trafficking and College Health.
+  * Supervisor: Dr. Michelle Munro-Cramer
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 - May 2020: Lab Supervisor/Research Assistant
+  * University of Michigan Sociology Department
+  * Duties included: Supervising and managing a team of undergraduate coders, resolving coding discrepancies, designing research tools for policy analysis, and  refining data accuracy for policy analysis on University compliance with Title IX.
+  * Supervisor: Dr. Elizabeth Armstrong
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python and R
+  * Pandas and Tidyverse
+  * Plotly and Shiny
+  * Econometrics
+  * Web scraping and API calls
+  * Machine Learning
+  * Text and natural language processing
+  * Computer Vision and Deep Learning
+* SQL: MySQL, AWSRedshift
+* No-SQL: Cypher (Neo4j), MQL (MongoDB), DynamoDB
+* AWS, Azure, Apache Spark, Hadoop
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
