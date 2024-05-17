@@ -13,7 +13,7 @@ Full academic CV: <a href="https://github.com/martinke11/martinke11.github.io/bl
 
 Education
 ======
-* M.P.P. Data Science Specialty, University of Chicago, 2024(Expected)
+* M.P.P. Data Science Specialty, University of Chicago, 2024 (Expected)
 * B.A. in Sociology with Honors, University of Michigan-Ann Arbor, 2019
 
 Work experience
@@ -40,11 +40,12 @@ Skills
   * Plotly and Shiny
   * Econometrics
   * Web scraping and API calls
-  * Machine Learning
+  * Machine Learning and MLOps (MLFlow, ClearML, Databricks, Streamlit)
   * Text and natural language processing
   * Computer Vision and Deep Learning
 * SQL: MySQL, AWSRedshift
 * No-SQL: Cypher (Neo4j), MQL (MongoDB), DynamoDB
 * AWS, Azure, Apache Spark, Hadoop
+* ArcGIS, QGIS, Geopandas
 
 
