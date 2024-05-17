@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Global report on COVID-19 vaccination and reasons not to vaccinate among adults with intellectual disabilities: Results from secondary analyses of Special 
+Olympics’ program planning. 
+"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: 2023-06-13
+venue: 'PLOS Global Public Health'
+paperurl: 'https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001367'
+citation: '<br>Lincoln, A. E., Dixon-Ibarra, A. M., Hanley, J. P., Smith, A. L., Martin, K. E., Bazzano, A. (2023). &quot;Global report on COVID-19 vaccination and reasons not to vaccinate among adults with intellectual disabilities: Results from secondary analyses of Special Olympics’ program planning.&quot; <i>PLOS Global Public Health</i>. 3(6): e0001367. https://doi.org/10.1371/journal.pgph.0001367'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract<br>The COVID-19 pandemic has disproportionately affected people with intellectual disabilities worldwide. The objective of this study was to identify global rates of COVID-19 vaccination and reasons not to vaccinate among adults with intellectual disabilities (ID) associated with country economic income levels. The Special Olympics COVID-19 online survey was administered in January-February 2022 to adults with ID from 138 countries. Descriptive analyses of survey responses include 95% margins of error. Logistic regression and Pearson Chi-squared tests were calculated to assess associations with predictive variables for vaccination using R 4.1.2 software. Participants (n = 3560) represented 18 low (n = 410), 35 lower-middle (n = 1182), 41 upper-middle (n = 837), and 44 high (n = 1131) income countries. Globally, 76% (74.8–77.6%) received a COVID-19 vaccination while 49.5% (47.9–51.2%) received a COVID-19 booster. Upper-middle (93% (91.2–94.7%)) and high-income country (94% (92.1–95.0%)) participants had the highest rates of vaccination while low-income countries had the lowest rates (38% (33.3–42.7%)). In multivariate regression models, country economic income level (OR = 3.12, 95% CI [2.81, 3.48]), age (OR = 1.04, 95% CI [1.03, 1.05]), and living with family (OR = 0.70, 95% CI [0.53, 0.92]) were associated with vaccination. Among LLMICs, the major reason for not vaccinating was lack of access (41.2% (29.5–52.9%)). Globally, concerns about side effects (42%, (36.5–48.1%)) and parent/guardian not wanting the adult with ID to vaccinate (32% (26.1–37.0%)) were the most common reasons for not vaccinating. Adults with ID from low and low-middle income countries reported fewer COVID-19 vaccinations, suggesting reduced access and availability of resources in these countries. Globally, COVID-19 vaccination levels among adults with ID were higher than the general population. Interventions should address the increased risk of infection for those in congregate living situations and family caregiver apprehension to vaccinate this high-risk population.
