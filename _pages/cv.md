@@ -13,7 +13,7 @@ Full academic CV: <a href="https://github.com/martinke11/martinke11.github.io/bl
 
 Education
 ======
-* M.P.P. Data Science Specialty, University of Chicago, 2024 (Expected)
+* M.P.P. Data Science Specialty, University of Chicago, 2024 
 * B.A. in Sociology with Honors, University of Michigan-Ann Arbor, 2019
 
 Work experience
@@ -35,7 +35,7 @@ Work experience
   
 Skills
 ======
-* Python and R
+* HTML5, Python, and R
   * Pandas and Tidyverse
   * Plotly and Shiny
   * Econometrics
